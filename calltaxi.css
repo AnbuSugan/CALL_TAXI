@@ -1,0 +1,367 @@
+
+.menu ul li{
+    list-style: none;
+    display: inline;
+    font-size: 20px;
+    padding-left: 20px;
+    cursor: pointer;
+}
+.logo img{
+    position: absolute;
+    width: 10%;
+    float: left;
+    margin-top: 1%;
+    margin-left: 3%;
+}
+
+.menu{
+    width: 40%;
+    float: right;
+    margin-top: 1%;
+    margin-left: 3%;
+}
+
+    .banner::before{
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 80%;
+        width: 55%;
+        background-image: url(hero-bg2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+   
+    }
+    body{
+        padding: 0;
+        margin: 0;
+    }
+    .clear{
+        clear: both;
+    }
+
+.header2 {
+      position: absolute;  
+    width: 30%;
+    margin-left: 70px;
+    padding-top: 5%;
+    left: 6%;
+    top: 17%;
+      }
+.header2 h2{
+    position: absolute;
+    font-size: 30px;
+    top: 5%;
+    color: #fff;
+}
+#bold{
+    position: absolute;
+    font-size: 40px;
+    top: 45%;
+    color: rgba(0, 0, 0, 0.733);
+}
+   .header3{
+    position: absolute;
+    width: 90%;
+    left: 2%;
+padding-top: 10%;
+}
+
+.header3 img{
+    width: 60%;
+    position: absolute;
+    top: 30%;
+}
+.header4 {
+    position: absolute;
+    right: 2%;
+    padding: 50px;
+    width: 30%;
+    float: right;
+    background-color: #000000c2;
+    border-radius: 5%;
+    
+}
+#Get{
+    font-size: 30px;
+    text-align: center;
+}
+
+#car{
+    padding: 10px;
+    width: 100%;
+    font-size: 20px;
+}
+#pick{
+    padding: 10px;
+    width: 100%;
+    font-size: 20px;
+}
+#Drop{
+    padding: 10px;
+    width: 100%;
+    font-size: 20px;
+}
+#phone{
+    padding: 10px;
+    width: 60%;
+    font-size: 20px;
+}
+
+.header4 h2{
+    color: white;
+
+}
+.txt{
+    padding: 10px;
+}
+#book{
+    background-color: rgb(182, 236, 74);
+    padding: 10px;
+    width: 30%;
+font-size: 20px;
+}
+#Read{
+    padding: 10px;
+    margin-left: 20%;
+    margin-top: 3%;
+    border: 2px;
+    background-color: rgba(245, 245, 18, 0.897);
+}
+.header6 img {
+    position: absolute;
+    width: 45%;
+    left: 5%;
+
+}
+   
+.header7 {
+    width: 40%;
+float: right;
+padding-right: 5%;
+}
+.header7 h1{
+        text-align: center;
+    font-size: 35px;
+ }
+ .header7 p{
+   
+    font-size: 20px;
+
+ }
+.banner2{
+    background-image: url(sunset-1373171__480.jpg);
+
+}
+.header8{
+    width: 50%;
+    float: right;
+}
+.text{
+    width: 40%;
+    float: left;
+}
+.text h4{
+    margin-top: 20%;
+    font-size: 20px;
+}
+.text h1{
+    margin-top: 10%;
+    font-size: 30px;
+}
+.text h3{
+
+    font-size: 15px;
+}
+.text{
+    margin-left: 10%;
+}
+.text button{
+    padding: 15;
+}
+p{
+    line-height: 30px;
+}
+#rm{
+    padding: 10px;
+    width: 40%;
+    border: 2px soild #000;
+    background: rgb(226, 226, 33);
+    border: none;
+}
+#rm:hover{
+    background-color: #000;
+    color: #fff;
+    
+}
+.h6{
+    padding-top: 15%;
+}
+.b2{
+    padding-top: 10%;  
+}
+.h3{
+    padding-top: 10%;  
+    padding-bottom: 25%;
+}
+#Dindigul{
+    color: #fff;
+    font-size: 20px;
+}
+#Mario{
+    color: #ffff00;
+    font-size: 35px;
+    margin-top: 0%;
+}
+#Service{
+    color: #fff;
+    font-size: 15px;
+}
+#BOOKTAXI{
+    padding: 3%;
+    width: 40%;
+}
+#how{
+    font-size: 30px;
+      text-align: center;
+}
+#car1{
+position: absolute;
+    margin-left: 35%;
+    color: #ffff00;
+    font-size: 50px;
+    background-color: #8d8d4c;
+    border-radius: 50%;
+    padding: 10px;
+}
+#place{
+    margin-left: 45%;
+    font-size: 25px;
+    margin-bottom: 1;
+}
+#Round{
+    margin-left: 45%;
+    font-size: 20px;
+    margin-top: 1;
+}
+#pay{
+    position: absolute;
+    margin-left: 35%;
+    color: #ffff00;
+    font-size: 50px;
+    background-color: #8d8d4c;
+    border-radius: 50%;
+    padding: 10px;
+}
+#pay1{
+    margin-left: 45%;
+    font-size: 25px;
+    margin-bottom: 1;
+}
+#payonly{
+    margin-left: 45%;
+    font-size: 20px;
+    margin-top: 1;
+}
+#car2{
+    position: absolute;
+    margin-left: 35%;
+    color: #ffff00;
+    font-size: 50px;
+    background-color: #8d8d4c;
+    border-radius: 50%;
+    padding: 10px;
+    
+
+}
+#Dest{
+    margin-left: 45%;
+    font-size: 25px;
+    margin-bottom: 1;
+}
+#Travel{
+    margin-left: 45%;
+    font-size: 20px;
+    margin-top: 1;
+}
+.howit{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.budget h1{
+    text-align: center;
+}
+.indica{
+    width: 33%;
+    float: left;
+}
+#indica{
+    width: 50%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 2%;
+    }
+    .indica h3{
+        margin-top: 35%;
+        margin-left: 17%;
+    }
+.omni{
+    width: 33%;
+    float: left;
+}
+#omni{
+    width: 50%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 2%;
+    }
+    .omni h3{
+        margin-top: 35%;
+        margin-left: 17%;
+    }
+    .innova{
+        width: 33%;
+        float: left;
+    }
+    #innova{
+        width: 60%;
+        float: left;
+        margin-left: 10%;
+        margin-top: 1%;
+        }
+        .innova h3{
+            margin-top: 35%;
+            margin-left: 30%;
+        }
+
+        .border{
+            border: 3px solid blue;
+            position: absolute;
+                 
+        }
+
+.map{
+    padding-top: 23%;
+    width: 100%;
+}
+
+
+.footer{
+    
+    bottom: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+/* .dir{
+    border: none;
+    font-size: 50px;
+    position: fixed;
+    right: 0;
+  
+} */
